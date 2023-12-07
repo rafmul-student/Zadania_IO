@@ -1,0 +1,37 @@
+Klasy:
+
+- Konto rejestracja, logowanie X
+
+- Lista testow (Przechowywanie testów w pliku tekstowym)
+nazwa tego pliku to (folder z nickiem nauczyciela) i plik nazwa.txt 
+
+-Menu
+(posiada wiele form) X
+działa w pętli X
+
+
+Komunikaty() X
+
+---SYSTEM NAUCZANIA I TESTÓW---
+-----------MAIN MENU-----------
+
+
+
+Opis statusów:
+
+0 użytkownik niezalogowany - możliwość rejestracji, zalogowania lub wyjścia z programu(stan początkowy) X
+1 użytkownik pomyślnie zalogowany - menu z dostępem do listy testów i możliwość modyfikacji testu nr X
+2 użytkownik w liście testów (wyświetla nazwy testów)
+3 użytkownk w liś
+
+
+31.10.2023
+
+Robimy rejestracje i logowanie ! 
+
+2.11
+
+Oprawiamy o dostęp do plików tekstowych 
+-Wczytywanie folderów które już są utworzone
+-Tworzenie folderów których jeszcze nie ma  (ZADANJE DODATKOWE - FOLDERY SĄ SZYFROWANE HASLAMI UZYTKOWNIKOW)
+-otwieranie plików tekstowych 

@@ -1,0 +1,13 @@
+git remote add origin https://github.com/rafmul-student/Zadania_IO.git
+git branch -M main
+git push -u origin main
+
+git config --global user.name "rafmul-student"
+git config --global user.email "rafikm@student.agh.edu.pl"
+
+
+git config --local user.name "rafmul-student"
+git config --local user.email "rafikm@student.agh.edu.pl"
+
+git config --global user.email
+git config --global user.name

@@ -1,0 +1,26 @@
+Wyraź a / Nie wyraź a / Odpowiedzi
+
+1. a b  / c d e f / 4 
+2.a d e f / b c / 3
+3.b c e /a f d / 4
+4. a b c d f / e / 4
+5. a b d e / c f / 6
+6.b c e f / a d / 5
+7. a c e / b d f / 5 
+8.a b d e f / c / 3
+9. c d e / a b f / 3  
+10. d b f e / a c / 3
+11.b c f / a d e  / 4
+12.b d / a c e f / 4
+13.d / a b c e f / 5
+14.b d f/ a c e / 5
+15.a f / b c d e / 3
+16.a c f / b d e / 2
+17.a b / c d e f / 5
+18.a d e / b c f / 5
+
+Wynik : 73/108
+
+67,6%
+
+Wynik 5/10 w skali mężczyzn (bardzo dobry)
